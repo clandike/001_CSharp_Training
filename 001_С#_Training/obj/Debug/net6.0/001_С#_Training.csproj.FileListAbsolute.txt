@@ -1,0 +1,15 @@
+S:\Work\Projects\001_С#_Training\001_С#_Training\bin\Debug\net6.0\001_С#_Training.exe
+S:\Work\Projects\001_С#_Training\001_С#_Training\bin\Debug\net6.0\001_С#_Training.deps.json
+S:\Work\Projects\001_С#_Training\001_С#_Training\bin\Debug\net6.0\001_С#_Training.runtimeconfig.json
+S:\Work\Projects\001_С#_Training\001_С#_Training\bin\Debug\net6.0\001_С#_Training.dll
+S:\Work\Projects\001_С#_Training\001_С#_Training\bin\Debug\net6.0\001_С#_Training.pdb
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\001_С#_Training.csproj.AssemblyReference.cache
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\001_С#_Training.GeneratedMSBuildEditorConfig.editorconfig
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\001_С#_Training.AssemblyInfoInputs.cache
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\001_С#_Training.AssemblyInfo.cs
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\001_С#_Training.csproj.CoreCompileInputs.cache
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\001_С#_Training.dll
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\refint\001_С#_Training.dll
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\001_С#_Training.pdb
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\001_С#_Training.genruntimeconfig.cache
+S:\Work\Projects\001_С#_Training\001_С#_Training\obj\Debug\net6.0\ref\001_С#_Training.dll
